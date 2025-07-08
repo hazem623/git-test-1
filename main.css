@@ -9,3 +9,9 @@ h1 {
     font-size: 200px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+p {
+    text-align: center;
+    font-size: 150px;
+    color: #fff;
+    margin-top: 20px;
+}
