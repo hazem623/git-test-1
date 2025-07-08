@@ -1,6 +1,11 @@
 body {
+<<<<<<< HEAD
     background-color: #087588; 
     font-family: 'Times New Roman', Times, serif;
+=======
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+>>>>>>> 734d695e5c2bddb98e9b4272faa6aac6f1e4cc79
     color: #333;
 }
 h1 {
@@ -12,6 +17,10 @@ h1 {
 p {
     text-align: center;
     font-size: 150px;
+<<<<<<< HEAD
     color: #fff;
     margin-top: 20px;
 }
+=======
+}
+>>>>>>> 734d695e5c2bddb98e9b4272faa6aac6f1e4cc79
