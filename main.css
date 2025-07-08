@@ -1,0 +1,11 @@
+h1 {
+    background-color: black;
+    text-align: center;
+    color: thistle;
+    font-size: 150px;
+}
+body {
+    background-color: black;
+    color: thistle;
+    font-family: 'Courier New', Courier, monospace;
+}
